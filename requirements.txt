@@ -12,7 +12,7 @@ cssselect==1.0.3          # via pyquery
 diff-cover==1.0.2
 django-bootstrap-static==4.0.0
 django-healthchecks==1.4.2
-django==2.0.3
+django==2.2.13
 factory-boy==2.10.0
 faker==0.8.12             # via factory-boy
 flake8==3.5.0
